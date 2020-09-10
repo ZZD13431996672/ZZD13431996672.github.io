@@ -1,14 +1,13 @@
 # Site settings
-title: ZZD13431996672
+title: 邹佐董的技术博客
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
-
+  这是一个好的博客
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://ZZD13431996672.github.io" # the base hostname & protocol for your site
+url: "https://zzd13431996672.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: ZZD13431996672
-  github: github
+  fullname: 董哥
+  github: https://github.com/ZZD13431996672
   email: 26406639@qq.com
 
 
