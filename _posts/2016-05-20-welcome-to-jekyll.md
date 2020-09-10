@@ -1,26 +1,24 @@
 ---
 layout: page
-title:  "欢迎来到个人博客"
-subtitle: "一个小主题"
+title: "2020年9月10号"
 date:   2020-09-10 21:21:21 +0530
-categories: ["简介"]
+categories: ["笔记文章"]
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+# php学习笔记
+> - URL:
+>    - 由协议、域名、端口、文件路径、参数组成
+>    - 协议是一种约定
+>      - 约定双方是客户端跟服务端
+>        - 客户端是指发送请求的软件（浏览器等）
+>        - 服务端是指接收请求的软webservice）
+>      - 预定内容是指发送接收处理请求的方式
+> - 在yemo.git.io中，共分为三段
+>    - zzd13431996672为前缀
+>    - github为名
+>    - io为后缀
+> - 映射关系:1对1的关系
+>   - 1.hosts文件中寻找域名和ip映射关系（本地域名解析）
+>     - hosts在c盘/Windows/System332/drivers/etc
+>   - 2.去DNS服务器中寻找（如果本地文件找不到）   
+>    - DNS域名解析
+>   - 在hosts本地文件中书写的这种ip和域名的映射关系是静态路由
