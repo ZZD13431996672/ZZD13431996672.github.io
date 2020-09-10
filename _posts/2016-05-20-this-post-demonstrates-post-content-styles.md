@@ -3,7 +3,7 @@ layout: page
 title: "这篇文章展示了文章的内容风格"
 subtitle: "这是一个副标题"
 date:   2020-09-10 21:21:21 +0530
-categories: 废旧物品
+categories: ["文章"]
 author: "Bart Simpson"
 meta: "Springfield"
 ---

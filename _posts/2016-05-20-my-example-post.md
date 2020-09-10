@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  "样品"
-subtitle: "对样品的更详细的解释"
-date:   2020-09-10 21:21:21 +0530
-categories: ["一般文卓"]
+title:  "个人经历事件"
+subtitle: "对经历的更详细的解释"
+date:   2020-09-20 21:21:21 +0530
+categories: ["经历"]
 ---
 
 Eos eu docendi tractatos sapientem, brute option menandri in vix, quando vivendo accommodare te ius. Nec melius fastidii constituam id, viderer theophrastus ad sit, hinc semper periculis cum id. Noluisse postulant assentior est in, no choro sadipscing repudiandae vix. Vis in euismod delenit dignissim. Ex quod nostrum sit, suas decore animal id ius, nobis solet detracto quo te.
