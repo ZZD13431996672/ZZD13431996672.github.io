@@ -16,15 +16,15 @@ subtitle: 一个普通的邹佐董
 
 ### 教育
 
-Institute <span style="float: right; ">Duration</span>  
+ <span style="float: right; ">Duration</span>  
 **大学**  
 私立华联学院  
  
-Institute <span style="float: right; ">Duration</span>  
+ <span style="float: right; ">Duration</span>  
 **高中**  
 英德市第一中学  
 
-Institute <span style="float: right; ">Duration</span>  
+ <span style="float: right; ">Duration</span>  
 **初中**  
 华粤中英文学校、青塘中学 
 
@@ -46,9 +46,6 @@ Technologies used
 
 ### 荣誉与爱好
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
 - Etiam luctus ante quis est dictum faucibus.
 - Etiam luctus ante quis est dictum faucibus.
 - Etiam luctus ante quis est dictum faucibus.
