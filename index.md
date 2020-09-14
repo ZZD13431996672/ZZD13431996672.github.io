@@ -5,7 +5,7 @@ subtitle: 我这里是邹佐董的个人博客
 sitemap:
   priority: 0.9
 ---
-<h1>liziyuedashuaige</h1>
+<h1>李子越大帅哥</h1>
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
