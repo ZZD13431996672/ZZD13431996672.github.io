@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "2020年9月8号"
-date:   2020-09-8 21:21:21 +0530
+title: "2020年9月8号笔记"
+subtitle: "菜鸟上路"
+date:   2020-09-11 21:21:21 +0530
 categories: ["笔记文章"]
 ---
 
@@ -19,4 +20,7 @@ categories: ["笔记文章"]
   - markdow : 标记语言
   - init : 初始化本地版本库本地版本库有暂存区跟本地库
   - status : 查看本地版本库状态
+  - clone  : 克隆
+  - clone  : 克隆
+  - clone  : 克隆
   - clone  : 克隆
